@@ -1,51 +1,50 @@
-/*マルチメディアシステム概論　学生番号：XXXXXXX　氏名：工大太郎*/
 
-/*デフォルトの設定*/
+
+
 *{margin:0;padding:0}
 #a {font-size: 6ex;}
-/*ヘッダの設定*/
+
 div#header{
-	/*ボックスの設定*/
-	padding:0 0 0 5%;	/*枠内余白（上右下左）*/
-	background: #00ffff;/*背景色*/
-	/*ボックスの配置*/
-	/*文字の設定*/
-	color: #000000;/*文字の色*/
+	
+	padding:0 0 0 5%;
+	background: #00ffff;
+	
+	
+	color: #000000;
 	
 }
 
-/*コンテンツの設定*/
+
 div#content{
-	/*ボックスの設定*/
-	width: 83%;			/*幅*/
-	height: 600px;		/*高さ*/
-	padding: 0 0 0 2%;	/*枠内余白（上右下左）*/
-	background: #F3FA78;/*背景色*/
-	/*ボックスの配置*/
-	float: right;		/*回り込み（右寄せ）*/
-	/*文字の設定*/
+	
+	width: 83%;			
+	height: 600px;		
+	padding: 0 0 0 2%;
+	background: #F3FA78;
+	
+	float: right;		
+	
 	
 }
 
-/*ナビの設定*/
+
 div#navi{
-	/*ボックスの設定*/
-	width: 13%;			/*幅*/
-	height: 600px;		/*高さ*/
-	padding: 0 0 0 2%;	/*枠内余白（上右下左）*/
-	background: #B9CAFF;/*背景色*/
-	/*ボックスの配置*/
-    float: left;		/*回り込み（左寄せ）*/
-	/*文字の設定*/
+	
+	width: 13%;			
+	height: 600px;		
+	padding: 0 0 0 2%;	
+	background: #B9CAFF;
+	
+    float: left;		
+	
 	font-size:2.2ex;
 }
 
-/*フッターの設定*/
+
 div#footer{
-	/*ボックスの設定*/
-	padding: 0 0 0 2%;	/*枠内余白（上右下左）*/
-	background:#2ABBBB;	/*背景色*/
-	/*ボックスの配置*/
-	clear: both;		/*回り込み（左右解除）*/
-	/*文字の設定*/
+	
+	padding: 0 0 0 2%;
+	background:#2ABBBB;	
+	
+	clear: both;		
 }
